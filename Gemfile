@@ -59,3 +59,4 @@ gem 'bootstrap', '~> 5.3.1'
 
 gem "devise", "~> 4.9"
 gem 'devise-bootstrap-views', '~> 1.0'
+gem "pry-rails"
